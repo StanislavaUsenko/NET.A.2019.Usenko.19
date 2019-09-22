@@ -10,7 +10,7 @@ namespace UrlToXMLTask
     public class File
     {
         private string _pathToFile;
-        private List<string> _records;
+        private List<string> _records = new List<string>();
 
         public File(string pathToFile)
         {

@@ -1,7 +1,0 @@
-C:\Users\akkar\source\repos\UrlToXMLTask\UI\bin\Debug\UI.exe.config
-C:\Users\akkar\source\repos\UrlToXMLTask\UI\bin\Debug\UI.exe
-C:\Users\akkar\source\repos\UrlToXMLTask\UI\bin\Debug\UI.pdb
-C:\Users\akkar\source\repos\UrlToXMLTask\UI\obj\Debug\UI.csprojAssemblyReference.cache
-C:\Users\akkar\source\repos\UrlToXMLTask\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
-C:\Users\akkar\source\repos\UrlToXMLTask\UI\obj\Debug\UI.exe
-C:\Users\akkar\source\repos\UrlToXMLTask\UI\obj\Debug\UI.pdb

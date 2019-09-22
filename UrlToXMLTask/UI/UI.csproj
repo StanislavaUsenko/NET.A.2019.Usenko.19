@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UrlToXMLTask\UrlToXMLTask.csproj">
+      <Project>{502e77ac-7554-4eca-89f2-1ae727b8a8d0}</Project>
+      <Name>UrlToXMLTask</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
